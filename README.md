@@ -29,9 +29,12 @@
 
 # Контакты и ссылки
 
+**[Таблица с оценками](https://docs.google.com/spreadsheets/d/1TvIfuNutsYTcC5hMgOe5YvgQTzBG4KkbjbxNJWObaYU/edit?usp=sharing)**
+
 **[Пособие](https://github.com/BRAIn-Lab-teaching/OPTIMIZATION-METHODS-COURSE/blob/ПМИ_осень_2025/Пособие.pdf)**
 
 **[Семинары прошлого года](https://github.com/Jhomanik/opt_course_fall_2024/tree/main)**
+
 
 # Система оценивания
 | Активность |  Баллы  |
@@ -47,4 +50,5 @@
 # Материалы 
 | Неделя | Слайды семинаров | Слайды лекций | 
 |:------:|:----------|:----------:|
-|1| Повторение по линейной алгебре [[GitHub](sems/sems_2025_1_linalg_and_matvec_diff.pdf)]  | Введение в оптимизацию   |
+|1| Повторение по линейной алгебре [[GitHub](sems/sems_2025_1_linalg.pdf)]  | Введение в оптимизацию [[GitHub](lecs/lecs_2025_1_intro.pdf)]  |
+|2| Матрично-векторное дифференцирование [[GitHub](sems/sems_2025_2_matvec_diff.pdf)]  |  |
