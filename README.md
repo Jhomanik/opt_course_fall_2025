@@ -1,4 +1,5 @@
-# Курс по численным методам оптимизации, 5 семестр МФТИ ФИВТ 2025
+# Курс по численным методам оптимизации
+
 
 
 
@@ -25,15 +26,6 @@
 8) Дискретная оптимизация
 9) Семинары на выбор
 
-**[Полная программа](https://github.com/BRAIn-Lab-teaching/OPTIMIZATION-METHODS-COURSE/blob/ПМИ_осень_2025/Программа.pdf)**
-
-# Контакты и ссылки
-
-**[Таблица с оценками](https://docs.google.com/spreadsheets/d/1TvIfuNutsYTcC5hMgOe5YvgQTzBG4KkbjbxNJWObaYU/edit?usp=sharing)**
-
-**[Пособие](https://github.com/BRAIn-Lab-teaching/OPTIMIZATION-METHODS-COURSE/blob/ПМИ_осень_2025/Пособие.pdf)**
-
-**[Семинары прошлого года](https://github.com/Jhomanik/opt_course_fall_2024/tree/main)**
 
 
 # Система оценивания
