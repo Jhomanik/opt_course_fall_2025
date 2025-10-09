@@ -47,4 +47,4 @@
 |3| Матрично-векторное дифференцирование 2[[Слайды](sems/sems_2025_2_matvec_diff.pdf), [Конспект](sems/sems_2025_2_matvec_diff_slides2.pdf)]  | Градиентный спуск [[Конспект](lecs/lecs_2025_3.pdf)]|
 |4| Автоматическое дифференцирование [[Слайды](sems/sems_2025_3_backprop.pdf), [Конспект](sems/sems_2025_3_backprop_slides.pdf)]  | Ускоренные методы [[Конспект](lecs/lecs_2025_4.pdf)] |
 |5| Выпуклые множества [[Слайды](sems/sems_2025_4_convex_sets.pdf), [Конспект](sems/sems_2025_4_convex_sets_notes.pdf)]  | Стохастический град. спуск [[Конспект](lecs/lecs_2025_5.pdf)] |
-|5| Выпуклые функции [[Слайды](sems/sems_2025_6_convex_funcs.pdf)]  |  |
+|5| Выпуклые функции [[Слайды](sems/sems_2025_6_convex_funcs.pdf), [Конспект](sems/sems_2025_6_convex_funcs_notes.pdf)]  |  |
