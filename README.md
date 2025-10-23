@@ -48,5 +48,5 @@
 |4| Автоматическое дифференцирование [[Слайды](sems/sems_2025_3_backprop.pdf), [Конспект](sems/sems_2025_3_backprop_slides.pdf)]  | Ускоренные методы [[Конспект](lecs/lecs_2025_4.pdf)] |
 |5| Выпуклые множества [[Слайды](sems/sems_2025_4_convex_sets.pdf), [Конспект](sems/sems_2025_4_convex_sets_notes.pdf)]  | Стохастический град. спуск [[Конспект](lecs/lecs_2025_5.pdf)] |
 |6| Выпуклые функции [[Слайды](sems/sems_2025_6_convex_funcs.pdf), [Конспект](sems/sems_2025_6_convex_funcs_notes.pdf)]  | Сопряженные градиенты  [[Конспект](lecs/lecs_2025_6.pdf)] |
-|7| Суббдифференциал [[Слайды](sems/sems_2025_7_subdiff.pdf), [Конспект](sems/sems_2025_7_subdiff_notes.pdf)] | Ньютоновские и квазиньютоновские методы [[Конспект](lecs/lecs_2025_7.pdf)] |
+|7| Субдифференциал [[Слайды](sems/sems_2025_7_subdiff.pdf), [Конспект](sems/sems_2025_7_subdiff_notes.pdf)] | Ньютоновские и квазиньютоновские методы [[Конспект](lecs/lecs_2025_7.pdf)] |
 |8| Сопряженные функции [[Слайды](sems/sems_2025_8_dual_funcs.pdf), [Конспект](sems/sems_2025_8_dual_funcs_notes.pdf)] |  |
