@@ -50,4 +50,5 @@
 |6| Выпуклые функции [[Слайды](sems/sems_2025_6_convex_funcs.pdf), [Конспект](sems/sems_2025_6_convex_funcs_notes.pdf)]  | Сопряженные градиенты  [[Конспект](lecs/lecs_2025_6.pdf)] |
 |7| Субдифференциал [[Слайды](sems/sems_2025_7_subdiff.pdf), [Конспект](sems/sems_2025_7_subdiff_notes.pdf)] | Ньютоновские и квазиньютоновские методы [[Конспект](lecs/lecs_2025_7.pdf)] |
 |8| Сопряженные функции [[Слайды](sems/sems_2025_8_dual_funcs.pdf), [Конспект](sems/sems_2025_8_dual_funcs_notes.pdf)] | Негладкая оптимизация и адаптивные методы [[Конспект](lecs/lecs_2025_8.pdf)]|
-|9| Двойственные задачи [[Слайды](sems/sems_2025_9_dual_problem.pdf), [Конспект](sems/sems_2025_9_dual_problem_notes.pdf)] | |
+|9| Двойственные задачи [[Слайды](sems/sems_2025_9_dual_problem.pdf), [Конспект](sems/sems_2025_9_dual_problem_notes.pdf)] | Оптимизация на множествах [[Конспект](lecs/lecs_2025_9.pdf)] |
+|10| Условия оптимальности [[Слайды](sems/sems_2025_10_KKT.pdf)] | |
