@@ -52,4 +52,5 @@
 |8| Сопряженные функции [[Слайды](sems/sems_2025_8_dual_funcs.pdf), [Конспект](sems/sems_2025_8_dual_funcs_notes.pdf)] | Негладкая оптимизация и адаптивные методы [[Конспект](lecs/lecs_2025_8.pdf)]|
 |9| Двойственные задачи [[Слайды](sems/sems_2025_9_dual_problem.pdf), [Конспект](sems/sems_2025_9_dual_problem_notes.pdf)] | Оптимизация на множествах [[Конспект](lecs/lecs_2025_9.pdf)] |
 |10| Условия оптимальности [[Слайды](sems/sems_2025_10_KKT.pdf), [Конспект](sems/sems_2025_10_KKT_notes.pdf)] | Зеркальный градиентный спуск  [[Конспект](lecs/lecs_2025_10.pdf)]  |
-|11| Стандартные виды задач [[Слайды](sems/sems_2025_11_standard_problems.pdf), [Конспект](sems/sems_2025_11_standard_problems_notes.pdf)] |   |
+|11| Стандартные виды задач [[Слайды](sems/sems_2025_11_standard_problems.pdf), [Конспект](sems/sems_2025_11_standard_problems_notes.pdf)] | Метод штрафных функций, ADMM [[Конспект](lecs/lecs_2025_11.pdf)]  |
+|12| Конусы [[Слайды](sems/sems_2025_12_cones.pdf)] |   |
