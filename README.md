@@ -55,3 +55,5 @@
 |11| Стандартные виды задач [[Слайды](sems/sems_2025_11_standard_problems.pdf), [Конспект](sems/sems_2025_11_standard_problems_notes.pdf)] | Метод штрафных функций, ADMM [[Конспект](lecs/lecs_2025_11.pdf)]  |
 |12| Конусы [[Слайды](sems/sems_2025_12_cones.pdf), [Конспект](sems/sems_2025_12_cones_notes.pdf)] | Метод внутренней точки [[Конспект](lecs/lecs_2025_12.pdf)]  |
 |13| Cvxpy, Scipy [[Notebook](notebooks/sem13_cvxpy_scipy.ipybn)] |   |
+|14|  | Повтор лекций  [[Слайды](lecs/lecs_recap.pdf)] |
+
